@@ -1,0 +1,11 @@
+{
+  "name": "engineering-protocols",
+  "displayName": "Engineering Protocols",
+  "version": "1.0.0",
+  "description": "Production software engineering protocols covering specs, TDD, surgical diffs, root-cause debugging, code review, security, ADRs, tech debt, and Herdr terminal orchestration.",
+  "suggestedPrompts": [
+    "Write a spec and ordered task breakdown before implementing this feature",
+    "Review my current git diff for security, performance, and edge cases",
+    "Run a systematic root-cause debugging session on this failing test"
+  ]
+}

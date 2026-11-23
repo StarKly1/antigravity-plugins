@@ -1,0 +1,11 @@
+{
+  "name": "finance-workflows",
+  "displayName": "Finance Workflows",
+  "version": "1.0.0",
+  "description": "Accounting and finance workflows covering financial statements, variance analysis, account reconciliation, journal entries, month-end close, and SOX 404 audit support.",
+  "suggestedPrompts": [
+    "Analyze budget vs. actual variances and explain the main drivers",
+    "Reconcile this ledger export against the bank statement",
+    "Prepare month-end accrual journal entries with supporting detail"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "office-documents",
+  "displayName": "Office Documents",
+  "version": "1.0.0",
+  "description": "Create, read, edit, and analyze local PDF, Word (.docx), Excel (.xlsx), and PowerPoint (.pptx) files.",
+  "suggestedPrompts": [
+    "Extract tables and key findings from this PDF paper",
+    "Build a formatted Excel workbook with formulas from this CSV",
+    "Create a polished PowerPoint deck from my project notes"
+  ]
+}

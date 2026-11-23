@@ -1,0 +1,11 @@
+{
+  "name": "design-workflows",
+  "displayName": "Design Workflows",
+  "version": "1.0.0",
+  "description": "Product and UX design workflows including design critiques, developer handoff specs, design system audits, WCAG accessibility reviews, UX copy, and user research synthesis.",
+  "suggestedPrompts": [
+    "Critique this screen for visual hierarchy, usability, and consistency",
+    "Generate a developer handoff spec with tokens and states",
+    "Audit this UI against WCAG 2.1 AA accessibility guidelines"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "writing-and-learning",
+  "displayName": "Writing & Learning",
+  "version": "1.0.0",
+  "description": "Structured document co-authoring for papers/specs/RFCs, conceptual learning mode, eval-driven skill creation, and morning briefs.",
+  "suggestedPrompts": [
+    "Help me co-author a technical proposal or research spec",
+    "Walk me through this concept from first principles and quiz me",
+    "Create and benchmark a new custom skill for my workflow"
+  ]
+}
